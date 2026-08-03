@@ -50,7 +50,7 @@ every step explained with reasoning, not just code.
 </p>
 
 <p align="center">
-  <img src="images/revenue_trend.png" width="48%" alt="Monthly Revenue Trend">
+  <img src="https://github.com/hemanthsri879/E-Commerce-Sales-Customer-Insights-Dashboard/blob/ba266ff17626db69d926218a49d25e0aef248e50/ecommerce%202image.jpg" width="48%" alt="Monthly Revenue Trend">
   <img src="images/customer_clusters.png" width="48%" alt="Customer Clusters">
 </p>
 
