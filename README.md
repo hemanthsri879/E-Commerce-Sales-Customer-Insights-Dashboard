@@ -42,6 +42,25 @@ every step explained with reasoning, not just code.
 ## 🖼️ Preview
 
 <p align="center">
+  <img src="images/dashboard.png" width="900" alt="Excel Dashboard">
+</p>
+
+<p align="center">
+  <em>Excel dashboard — 47,000+ live formulas, zero hardcoded values</em>
+</p>
+
+<p align="center">
+  <img src="images/revenue_trend.png" width="48%" alt="Monthly Revenue Trend">
+  <img src="images/customer_clusters.png" width="48%" alt="Customer Clusters">
+</p>
+
+<p align="center">
+  <em>Left: Revenue seasonality (Diwali/festive spikes) | Right: K-Means customer clusters</em>
+</p>
+
+## 🖼️ Preview
+
+<p align="center">
   <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 1 image.jpg" alt="Excel Dashboard" width="800"/>
 </p>
 <p align="center"><em>Excel dashboard — 47,000+ live formulas, zero hardcoded values</em></p>
