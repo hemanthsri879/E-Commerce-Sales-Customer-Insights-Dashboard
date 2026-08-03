@@ -30,12 +30,12 @@ a concrete, quantified churn signal, not just a pretty chart.
 ## 📊 Overview
 
 <p align="center">
-  <img src="screenshots/ecommerce-dashboard-1.jpg" width="900"/>
+  <img src="screenshots/ecommerce1.jpg" width="900"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/ecommerce-dashboard-2.jpg" width="450"/>
-  <img src="screenshots/ecommerce-dashboard-3.jpg" width="450"/>
+  <img src="screenshots/ecommerce2.jpg" width="450"/>
+  <img src="screenshots/ecommerce3.jpg" width="450"/>
 </p>
 
 
