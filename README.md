@@ -17,7 +17,25 @@ built with Python, SQL, Excel, Power BI, and Tableau.
 </div>
 
 ---
+# DESCRIPTION 
 
+An end-to-end Data Analytics project that leverages SQL, Python, Excel, and Power BI to analyze e-commerce sales and customer behavior. The project uncovers actionable insights on revenue, profitability, customer retention, product performance, and regional trends through interactive dashboards, KPI tracking, and data-driven storytelling.
+
+### Key Highlights
+
+* 📊 Interactive Sales & Customer Insights Dashboard
+* 🛒 Analysis of Revenue, Profit, Orders, and Customer Retention
+* 🎯 Customer Segmentation and Behavioral Insights
+* 📈 Product and Regional Performance Analysis
+* 🐍 Data Cleaning & EDA using Python
+* 🗄️ Advanced SQL Queries for Business Analysis
+* 📉 KPI Monitoring and Data Visualization in Power BI
+
+### Skills Demonstrated
+
+SQL • Python • Excel • Power BI • Data Cleaning • EDA • Dashboard Development • Business Intelligence • Data Visualization • Data Storytelling
+
+----
 ## 📊 Overview
 
 This project simulates a real Indian e-commerce business — **1,200 customers,
@@ -30,13 +48,7 @@ It's built to answer two kinds of questions a real business asks:
 - **Sales performance** — revenue trends, seasonality, top products/categories, geography
 - **Customer insights** — who are our best customers, who's at risk of churning, which
   acquisition channels are actually worth the spend
-
-**Headline finding:** 46.6% of customers hadn't placed an order in 90+ days —
-a concrete, quantified churn signal, not just a pretty chart.
-
-📄 **Full write-up:** [`docs/Project_Documentation.docx`](docs/Project_Documentation.docx) —
-every step explained with reasoning, not just code.
-
+  
 ---
 
 ## 🖼️ Preview
@@ -57,19 +69,6 @@ every step explained with reasoning, not just code.
 <p align="center">
   <em>Left: Revenue seasonality (Diwali/festive spikes) | Right: K-Means customer clusters</em>
 </p>
-
-## 🖼️ Preview
-
-<p align="center">
-  <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 1 image.jpg" alt="Excel Dashboard" width="800"/>
-</p>
-<p align="center"><em>Excel dashboard — 47,000+ live formulas, zero hardcoded values</em></p>
-
-<p align="center">
-  <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 2image.jpg" alt="Monthly Revenue Trend" width="48%"/>
-  <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 3image.jpg" alt="Customer Clusters" width="48%"/>
-</p>
-<p align="center"><em>Left: revenue seasonality (Diwali/festive spikes) &nbsp;|&nbsp; Right: K-Means customer clusters</em></p>
 
 ---
 
@@ -138,9 +137,3 @@ or follow `powerbi/PowerBI_Build_Guide.md` / `tableau/Tableau_Build_Guide.md`.
 
 ---
 
-## 👤 Author
-
-**Hemanth Vadisela**
-B.Tech Computer Science (Data Science), Sasi Institute of Technology & Engineering
-
-[GitHub](https://github.com/hemanthsri879) · [LinkedIn](https://linkedin.com/in/hemanth-vadisela-7431742a9)
