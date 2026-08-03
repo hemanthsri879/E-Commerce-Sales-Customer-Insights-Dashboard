@@ -32,7 +32,7 @@ a concrete, quantified churn signal, not just a pretty chart.
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="screenshots/excel_dashboard_preview.png" alt="Excel Dashboard" width="800"/>
+  <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 1 image.jpg"/>
 </p>
 <p align="center"><em>Excel dashboard — 47,000+ live formulas, zero hardcoded values</em></p>
 
