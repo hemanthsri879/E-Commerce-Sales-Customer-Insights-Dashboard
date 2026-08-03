@@ -42,7 +42,7 @@ every step explained with reasoning, not just code.
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="900" alt="Excel Dashboard">
+  <img src="https://github.com/hemanthsri879/E-Commerce-Sales-Customer-Insights-Dashboard/blob/a58bcc1caf4cdd8b7e9c820c2a6f6b6d647399e7/ecommerce%201%20image.jpg" width="900" alt="Excel Dashboard">
 </p>
 
 <p align="center">
