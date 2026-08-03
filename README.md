@@ -37,8 +37,8 @@ a concrete, quantified churn signal, not just a pretty chart.
 <p align="center"><em>Excel dashboard — 47,000+ live formulas, zero hardcoded values</em></p>
 
 <p align="center">
-  <img src="screenshots/01_monthly_revenue_trend.png" alt="Monthly Revenue Trend" width="48%"/>
-  <img src="screenshots/10_customer_clusters.png" alt="Customer Clusters" width="48%"/>
+  <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 2image.jpg"/>
+  <img src=""C:\Users\SIVA PRASAD\Pictures\ecommerce 3image.jpg""/>
 </p>
 <p align="center"><em>Left: revenue seasonality (Diwali/festive spikes) &nbsp;|&nbsp; Right: K-Means customer clusters</em></p>
 
