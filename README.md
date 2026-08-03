@@ -51,7 +51,7 @@ every step explained with reasoning, not just code.
 
 <p align="center">
   <img src="https://github.com/hemanthsri879/E-Commerce-Sales-Customer-Insights-Dashboard/blob/ba266ff17626db69d926218a49d25e0aef248e50/ecommerce%202image.jpg" width="48%" alt="Monthly Revenue Trend">
-  <img src="images/customer_clusters.png" width="48%" alt="Customer Clusters">
+  <img src="https://github.com/hemanthsri879/E-Commerce-Sales-Customer-Insights-Dashboard/blob/afc0ee9b93ecac194216306caf403c34b80c9036/ecommerce%203image.jpg" width="48%" alt="Customer Clusters">
 </p>
 
 <p align="center">
