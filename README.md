@@ -67,7 +67,7 @@ It's built to answer two kinds of questions a real business asks:
 </p>
 
 <p align="center">
-  <em>Left: Revenue seasonality (Diwali/festive spikes) | Right: K-Means customer clusters</em>
+  <em>Left: Revenue seasonality (Diwali/festive spikes)       |           Right: K-Means customer clusters</em>
 </p>
 
 ---
