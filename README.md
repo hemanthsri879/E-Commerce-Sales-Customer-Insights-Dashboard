@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 E-Commerce Sales & Customer Insights Dashboard
+#  E-Commerce Sales & Customer Insights Dashboard
 
 **An end-to-end data analytics project** — from messy raw data to business-ready dashboards,
 built with Python, SQL, Excel, Power BI, and Tableau.
