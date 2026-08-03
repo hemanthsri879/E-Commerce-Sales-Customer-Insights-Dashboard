@@ -1,9 +1,18 @@
 <div align="center">
 
-#  E-Commerce Sales & Customer Insights Dashboard
+# 🛒 E-Commerce Sales & Customer Insights Dashboard
 
 **An end-to-end data analytics project** — from messy raw data to business-ready dashboards,
 built with Python, SQL, Excel, Power BI, and Tableau.
+
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-SQLite-07405E?logo=sqlite&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-data%20cleaning-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-K--Means-F7931E?logo=scikitlearn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Guide-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Guide-E97627?logo=tableau&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
 
@@ -25,32 +34,21 @@ It's built to answer two kinds of questions a real business asks:
 **Headline finding:** 46.6% of customers hadn't placed an order in 90+ days —
 a concrete, quantified churn signal, not just a pretty chart.
 
-
-
-## 📊 Overview
-
-<p align="center">
-  <img src="README.md/ecommerce 1 image.jpg" width="900"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/ecommerce2.jpg" width="450"/>
-  <img src="screenshots/ecommerce3.jpg" width="450"/>
-</p>
-
+📄 **Full write-up:** [`docs/Project_Documentation.docx`](docs/Project_Documentation.docx) —
+every step explained with reasoning, not just code.
 
 ---
 
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 1 image.jpg"/>
+  <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 1 image.jpg" alt="Excel Dashboard" width="800"/>
 </p>
 <p align="center"><em>Excel dashboard — 47,000+ live formulas, zero hardcoded values</em></p>
 
 <p align="center">
-  <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 2image.jpg"/>
-  <img src=""C:\Users\SIVA PRASAD\Pictures\ecommerce 3image.jpg""/>
+  <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 2image.jpg" alt="Monthly Revenue Trend" width="48%"/>
+  <img src="C:\Users\SIVA PRASAD\Pictures\ecommerce 3image.jpg" alt="Customer Clusters" width="48%"/>
 </p>
 <p align="center"><em>Left: revenue seasonality (Diwali/festive spikes) &nbsp;|&nbsp; Right: K-Means customer clusters</em></p>
 
@@ -121,4 +119,9 @@ or follow `powerbi/PowerBI_Build_Guide.md` / `tableau/Tableau_Build_Guide.md`.
 
 ---
 
+## 👤 Author
 
+**Hemanth Vadisela**
+B.Tech Computer Science (Data Science), Sasi Institute of Technology & Engineering
+
+[GitHub](https://github.com/hemanthsri879) · [LinkedIn](https://linkedin.com/in/hemanth-vadisela-7431742a9)
